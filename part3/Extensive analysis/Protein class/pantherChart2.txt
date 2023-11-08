@@ -1,0 +1,10 @@
+1	protein modifying enzyme (PC00260)	1	3.3%	4.3%
+2	membrane traffic protein (PC00150)	1	3.3%	4.3%
+3	chaperone (PC00072)	1	3.3%	4.3%
+4	cell junction protein (PC00070)	1	3.3%	4.3%
+5	nucleic acid metabolism protein (PC00171)	7	23.3%	30.4%
+6	transmembrane signal receptor (PC00197)	1	3.3%	4.3%
+7	calcium-binding protein (PC00060)	1	3.3%	4.3%
+8	intercellular signal molecule (PC00207)	1	3.3%	4.3%
+9	gene-specific transcriptional regulator (PC00264)	5	16.7%	21.7%
+10	chromatin/chromatin-binding, or -regulatory protein (PC00077)	4	13.3%	17.4%
