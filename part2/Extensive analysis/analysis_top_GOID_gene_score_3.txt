@@ -1,0 +1,12 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	top_GOID_gene_score_2.csv (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Biological Process	Homo sapiens - REFLIST (20595)	top_GOID_gene_score_2.csv (172)	top_GOID_gene_score_2.csv (expected)	top_GOID_gene_score_2.csv (over/under)	top_GOID_gene_score_2.csv (fold Enrichment)	top_GOID_gene_score_2.csv (raw P-value)	top_GOID_gene_score_2.csv (FDR)

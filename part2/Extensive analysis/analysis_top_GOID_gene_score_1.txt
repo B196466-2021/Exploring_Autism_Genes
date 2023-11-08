@@ -1,0 +1,86 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	gene_list_1.csv (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Biological Process	Homo sapiens - REFLIST (20595)	gene_list_1.csv (189)	gene_list_1.csv (expected)	gene_list_1.csv (over/under)	gene_list_1.csv (fold Enrichment)	gene_list_1.csv (raw P-value)	gene_list_1.csv (FDR)
+ATP-dependent chromatin remodeling (GO:0043044)	29	4	.27	+	15.03	2.21E-04	8.91E-03
+regulation of dendrite development (GO:0050773)	22	3	.20	+	14.86	1.47E-03	4.45E-02
+dendrite development (GO:0016358)	35	4	.32	+	12.45	4.25E-04	1.57E-02
+chromatin remodeling (GO:0006338)	64	6	.59	+	10.22	4.22E-05	2.36E-03
+regulation of alternative mRNA splicing, via spliceosome (GO:0000381)	45	4	.41	+	9.69	1.02E-03	3.42E-02
+alternative mRNA splicing, via spliceosome (GO:0000380)	49	4	.45	+	8.90	1.37E-03	4.40E-02
+regulation of trans-synaptic signaling (GO:0099177)	83	5	.76	+	6.56	1.26E-03	4.15E-02
+modulation of chemical synaptic transmission (GO:0050804)	83	5	.76	+	6.56	1.26E-03	4.09E-02
+regulation of RNA splicing (GO:0043484)	88	5	.81	+	6.19	1.61E-03	4.73E-02
+positive regulation of transcription by RNA polymerase II (GO:0045944)	232	13	2.13	+	6.11	4.07E-07	8.89E-05
+positive regulation of nucleic acid-templated transcription (GO:1903508)	305	16	2.80	+	5.72	4.29E-08	9.35E-05
+positive regulation of transcription, DNA-templated (GO:0045893)	305	16	2.80	+	5.72	4.29E-08	4.68E-05
+positive regulation of RNA biosynthetic process (GO:1902680)	305	16	2.80	+	5.72	4.29E-08	3.12E-05
+positive regulation of RNA metabolic process (GO:0051254)	324	16	2.97	+	5.38	9.46E-08	2.95E-05
+positive regulation of macromolecule biosynthetic process (GO:0010557)	348	17	3.19	+	5.32	4.29E-08	2.34E-05
+chromatin organization (GO:0006325)	272	13	2.50	+	5.21	2.22E-06	3.23E-04
+positive regulation of cellular biosynthetic process (GO:0031328)	356	17	3.27	+	5.20	5.87E-08	2.56E-05
+regulation of membrane potential (GO:0042391)	127	6	1.17	+	5.15	1.38E-03	4.36E-02
+positive regulation of biosynthetic process (GO:0009891)	360	17	3.30	+	5.15	6.84E-08	2.49E-05
+chemical synaptic transmission (GO:0007268)	261	12	2.40	+	5.01	8.02E-06	9.21E-04
+anterograde trans-synaptic signaling (GO:0098916)	261	12	2.40	+	5.01	8.02E-06	8.75E-04
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935)	348	16	3.19	+	5.01	2.39E-07	5.79E-05
+trans-synaptic signaling (GO:0099537)	263	12	2.41	+	4.97	8.63E-06	8.97E-04
+synaptic signaling (GO:0099536)	273	12	2.51	+	4.79	1.24E-05	1.23E-03
+positive regulation of gene expression (GO:0010628)	421	18	3.86	+	4.66	1.16E-07	3.16E-05
+negative regulation of transcription by RNA polymerase II (GO:0000122)	227	8	2.08	+	3.84	1.43E-03	4.46E-02
+cell-cell signaling (GO:0007267)	425	14	3.90	+	3.59	5.18E-05	2.83E-03
+chromosome organization (GO:0051276)	418	13	3.84	+	3.39	1.67E-04	7.45E-03
+positive regulation of nitrogen compound metabolic process (GO:0051173)	707	18	6.49	+	2.77	1.16E-04	5.38E-03
+positive regulation of macromolecule metabolic process (GO:0010604)	753	19	6.91	+	2.75	8.35E-05	4.05E-03
+positive regulation of cellular metabolic process (GO:0031325)	768	18	7.05	+	2.55	3.11E-04	1.19E-02
+positive regulation of metabolic process (GO:0009893)	841	19	7.72	+	2.46	3.31E-04	1.24E-02
+negative regulation of metabolic process (GO:0009892)	667	15	6.12	+	2.45	1.48E-03	4.42E-02
+regulation of transcription by RNA polymerase II (GO:0006357)	1591	35	14.60	+	2.40	1.62E-06	2.53E-04
+transcription by RNA polymerase II (GO:0006366)	1635	35	15.00	+	2.33	2.75E-06	3.75E-04
+regulation of RNA metabolic process (GO:0051252)	2113	43	19.39	+	2.22	7.97E-07	1.45E-04
+positive regulation of cellular process (GO:0048522)	1295	26	11.88	+	2.19	2.20E-04	9.05E-03
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	2161	43	19.83	+	2.17	1.15E-06	1.94E-04
+regulation of gene expression (GO:0010468)	2410	47	22.12	+	2.13	6.03E-07	1.20E-04
+regulation of transcription, DNA-templated (GO:0006355)	1984	38	18.21	+	2.09	1.77E-05	1.68E-03
+regulation of nucleic acid-templated transcription (GO:1903506)	1984	38	18.21	+	2.09	1.77E-05	1.61E-03
+regulation of RNA biosynthetic process (GO:2001141)	1984	38	18.21	+	2.09	1.77E-05	1.55E-03
+multicellular organismal process (GO:0032501)	1385	26	12.71	+	2.05	6.37E-04	2.21E-02
+nucleic acid-templated transcription (GO:0097659)	2047	38	18.79	+	2.02	2.69E-05	2.09E-03
+transcription, DNA-templated (GO:0006351)	2047	38	18.79	+	2.02	2.69E-05	2.02E-03
+RNA biosynthetic process (GO:0032774)	2054	38	18.85	+	2.02	2.85E-05	1.94E-03
+regulation of cellular macromolecule biosynthetic process (GO:2000112)	2112	39	19.38	+	2.01	3.13E-05	2.07E-03
+regulation of macromolecule biosynthetic process (GO:0010556)	2120	39	19.46	+	2.00	3.23E-05	2.07E-03
+regulation of cellular biosynthetic process (GO:0031326)	2134	39	19.58	+	1.99	3.46E-05	2.10E-03
+regulation of biosynthetic process (GO:0009889)	2141	39	19.65	+	1.98	3.60E-05	2.12E-03
+positive regulation of biological process (GO:0048518)	1455	26	13.35	+	1.95	1.45E-03	4.46E-02
+regulation of macromolecule metabolic process (GO:0060255)	2931	51	26.90	+	1.90	5.19E-06	6.29E-04
+regulation of nitrogen compound metabolic process (GO:0051171)	2715	47	24.92	+	1.89	1.95E-05	1.64E-03
+RNA metabolic process (GO:0016070)	2659	46	24.40	+	1.89	2.72E-05	1.98E-03
+regulation of metabolic process (GO:0019222)	3093	53	28.38	+	1.87	5.12E-06	6.57E-04
+regulation of primary metabolic process (GO:0080090)	2743	47	25.17	+	1.87	2.18E-05	1.76E-03
+organic cyclic compound biosynthetic process (GO:1901362)	2350	40	21.57	+	1.85	1.26E-04	5.73E-03
+nucleobase-containing compound biosynthetic process (GO:0034654)	2297	39	21.08	+	1.85	1.72E-04	7.51E-03
+regulation of cellular metabolic process (GO:0031323)	2835	48	26.02	+	1.84	2.81E-05	1.98E-03
+heterocycle biosynthetic process (GO:0018130)	2322	39	21.31	+	1.83	1.95E-04	8.32E-03
+aromatic compound biosynthetic process (GO:0019438)	2323	39	21.32	+	1.83	1.96E-04	8.21E-03
+gene expression (GO:0010467)	3048	50	27.97	+	1.79	3.29E-05	2.05E-03
+nucleobase-containing compound metabolic process (GO:0006139)	3150	51	28.91	+	1.76	4.11E-05	2.36E-03
+nucleic acid metabolic process (GO:0090304)	2918	47	26.78	+	1.76	9.56E-05	4.53E-03
+heterocycle metabolic process (GO:0046483)	3198	51	29.35	+	1.74	7.06E-05	3.58E-03
+organic cyclic compound metabolic process (GO:1901360)	3262	52	29.94	+	1.74	5.29E-05	2.81E-03
+cellular macromolecule biosynthetic process (GO:0034645)	2580	41	23.68	+	1.73	5.54E-04	2.02E-02
+cellular aromatic compound metabolic process (GO:0006725)	3214	51	29.49	+	1.73	7.36E-05	3.65E-03
+macromolecule biosynthetic process (GO:0009059)	2590	41	23.77	+	1.72	5.66E-04	2.02E-02
+cellular nitrogen compound biosynthetic process (GO:0044271)	2597	41	23.83	+	1.72	5.76E-04	2.03E-02
+cellular nitrogen compound metabolic process (GO:0034641)	3483	52	31.96	+	1.63	2.84E-04	1.11E-02
+biological regulation (GO:0065007)	5797	79	53.20	+	1.48	6.31E-05	3.28E-03
+regulation of biological process (GO:0050789)	5324	72	48.86	+	1.47	2.29E-04	9.08E-03
+regulation of cellular process (GO:0050794)	5092	68	46.73	+	1.46	6.64E-04	2.26E-02
